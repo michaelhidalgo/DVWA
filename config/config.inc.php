@@ -15,7 +15,7 @@ $DBMS = 'MySQL';
 
 $_DVWA = array();
 $_DVWA[ 'db_server' ] = 'us-cdbr-azure-east-a.cloudapp.net';
-$_DVWA[ 'db_database' ] = 'dvwa';
+$_DVWA[ 'db_database' ] = 'security';
 $_DVWA[ 'db_user' ] = 'be1211b985946e';
 $_DVWA[ 'db_password' ] = '58dfb200';
 
